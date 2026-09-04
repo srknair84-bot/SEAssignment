@@ -1,0 +1,40 @@
+{
+    "date": "2026-09-04",
+    "contacts": [
+        {
+            "name": "Divya",
+            "phone": "+919745537607",
+            "message": "Hi Divya, hope you are doing well.",
+            "status": "sent",
+            "last_3_messages": [
+                "Hi {name}, hope you are doing well.",
+                "Hi Divya, hope you are doing well.",
+                "Hi Divya, hope you are doing well."
+            ],
+            "screenshot": "screenshots/Divya_20260904_141547.png"
+        },
+        {
+            "name": "Divya TN",
+            "phone": "+918220365005",
+            "message": "Hello Divya TN, this is a test message.",
+            "status": "sent",
+            "last_3_messages": [
+                "www.youtube.com\nhttps://www.youtube.com/watch?v=Dz15oJMyUcM\nwww.youtube.com\nhttps://www.youtube.com/watch?v=Dz15oJMyUcM",
+                "nine kaanan original song",
+                "Hello Divya TN, this is a test message."
+            ],
+            "screenshot": "screenshots/Divya TN_20260904_141605.png"
+        },
+        {
+            "name": "Sasi Kumar",
+            "phone": "+919500612004",
+            "message": "Hi Sasi Kumar,Good Day.",
+            "status": "sent",
+            "last_3_messages": [
+                "Hi {name},Good Day.",
+                "Hi Sasi Kumar,Good Day."
+            ],
+            "screenshot": "screenshots/Sasi Kumar_20260904_141627.png"
+        }
+    ]
+}
