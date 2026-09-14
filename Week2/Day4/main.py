@@ -11,7 +11,7 @@ model = ChatOpenAI(
         temperature=0
     )
 
-prompt = "Explain RAG in one simple paragraph."
+prompt = input("Enter your prompt: ")
 
 response = model.invoke(prompt)
 
